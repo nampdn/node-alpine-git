@@ -1,3 +1,3 @@
-FROM node:11-alpine
+FROM node:21-alpine
 
 RUN apk add git
